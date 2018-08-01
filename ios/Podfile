@@ -6,6 +6,8 @@ target 'AwesomeProject' do
   # use_frameworks!
 
   # Pods for AwesomeProject
+  pod 'AppCenter/Crashes', '~> 1.8.0'
+  pod 'AppCenter/Analytics', '~> 1.8.0'
   pod 'AppCenterReactNativeShared', '~> 1.7.1'
 
   
